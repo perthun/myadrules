@@ -1,10 +1,11 @@
-!Title: myadrules
+!Title: my-ad-rules
 
 bilibili.com##.login-panel-popover
 
 zhihu.com##.css-ysn1om
 
 qidian.com##.page-bottom-fixed
+qidian.com##.auto-tr._readerClockWrapper_1pe6j_209
 
 my.qidian.com##.readerClockWrapper
 my.qidian.com##.ui-tab-tabs
