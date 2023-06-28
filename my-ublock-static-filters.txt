@@ -1,13 +1,18 @@
 !Title: my-ad-rules
 
+!登录弹窗
 bilibili.com##.login-panel-popover
-
 zhihu.com##.css-ysn1om
 
+!首页
 qidian.com##.page-bottom-fixed
+!阅读页
 qidian.com##.auto-tr._readerClockWrapper_1pe6j_209
+qidian.com##.auto-tr.auto-click-tr._smallCollapseModule_1pe6j_1205
 
+!分组页
 my.qidian.com##.readerClockWrapper
+!游戏推荐
 my.qidian.com##.ui-tab-tabs
 my.qidian.com##.ibookclose
 
