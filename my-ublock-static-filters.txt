@@ -14,7 +14,8 @@ www.qidian.com##.mt-8px.flex.relative.tooltip-wrapper:nth-child(7)
 !阅读页
 www.qidian.com##.auto-tr._readerClockWrapper_1pe6j_209
 www.qidian.com##.auto-tr.auto-click-tr._smallCollapseModule_1pe6j_1205
-!阅读页：底部扫一扫二维码
+!阅读页：作者的话（无意义）、底部扫一扫二维码
+www.qidian.com## #r-authorSay:has(:contains("上起点中文网支持我，看最新更新"))
 www.qidian.com##.chapter-end-qrcode
 !详情页：左侧浮窗、手机扫码读本书、荣誉动态
 www.qidian.com##.left-nav
