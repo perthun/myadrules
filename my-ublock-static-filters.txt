@@ -1,18 +1,34 @@
 !Title: my-ad-rules
+!https://raw.githubusercontent.com/perthun/myadrules/main/my-ublock-static-filters.txt
 
 !登录弹窗
 bilibili.com##.login-panel-popover
 zhihu.com##.css-ysn1om
 
 !首页
-qidian.com##.page-bottom-fixed
+www.qidian.com##.page-bottom-fixed
+!阅读页右侧浮窗：投票、夜间、手机
+www.qidian.com##.mt-8px.flex.relative.tooltip-wrapper:nth-child(4)
+www.qidian.com##.mt-8px.flex.relative.tooltip-wrapper:nth-child(5)
+www.qidian.com##.mt-8px.flex.relative.tooltip-wrapper:nth-child(7)
 !阅读页
-qidian.com##.auto-tr._readerClockWrapper_1pe6j_209
-qidian.com##.auto-tr.auto-click-tr._smallCollapseModule_1pe6j_1205
-
-!分组页
+www.qidian.com##.auto-tr._readerClockWrapper_1pe6j_209
+www.qidian.com##.auto-tr.auto-click-tr._smallCollapseModule_1pe6j_1205
+!阅读页：底部扫一扫二维码
+www.qidian.com##.chapter-end-qrcode
+!详情页：左侧浮窗、手机扫码读本书、荣誉动态
+www.qidian.com##.left-nav
+www.qidian.com##.trigger-download.red-btn
+www.qidian.com##.honor-detail
+!详情页：月票打赏、右侧空格、设定集
+www.qidian.com##.ticket-reward
+www.qidian.com##.jsRightOpWrap.right-op-link
+www.qidian.com##.jsAutoReport.book-album-ddl
+!详情页：底部信息栏
+www.qidian.com##.footer-type-1
+!书架页
 my.qidian.com##.readerClockWrapper
-!游戏推荐
+!书架页：游戏推荐
 my.qidian.com##.ui-tab-tabs
 my.qidian.com##.ibookclose
 
