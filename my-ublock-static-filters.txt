@@ -4,6 +4,7 @@
 !登录弹窗
 bilibili.com##.login-panel-popover
 zhihu.com##.css-ysn1om
+zhihu.com##.css-1izy64v
 
 !首页
 www.qidian.com##.page-bottom-fixed
