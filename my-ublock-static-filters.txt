@@ -35,3 +35,6 @@ my.qidian.com##.ui-tab-tabs
 my.qidian.com##.ibookclose
 !书架页右侧浮窗
 my.qidian.com##.page-bottom-fixed
+
+# 刺猬猫底部弹幕栏
+www.ciweimao.com###J_BarrageBox
